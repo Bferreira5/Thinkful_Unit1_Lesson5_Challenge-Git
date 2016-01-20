@@ -1,0 +1,32 @@
+body { 
+	background: tomato;
+	font-family: "Helvetica", sans-serif;
+	color: white;
+}
+
+.wrapper {
+	margin: 130px auto;
+	max-width: 600px;
+	padding: 0 30px;
+}
+
+a {
+	color: white;
+	font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+	color: grey;
+	text-decoration: underline;
+}
+
+a:visited {
+	color: #FFF;
+}
+
+h1 {
+	text-align: center; 
+	
+}
+
